@@ -19,6 +19,8 @@ The project uses a flood area segmentation dataset containing:
 - RGB satellite images
 - Corresponding binary flood masks
 
+https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation
+
 ### Directory Structure
 
 ```
